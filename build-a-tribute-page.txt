@@ -1,0 +1,118 @@
+** start of undefined **
+
+<!DOCTYPE html>
+<main id="main">
+<html>
+  <link rel="stylesheet" href="styles.css">
+  <body>
+    <header>
+      <title id="title">Reed Timmer</title>
+      <h1>Reed Timmer</h1>
+      </header>
+      <div id="img-div">
+        <img id="image" src="https://i0.wp.com/kcstudio.org/wp-content/uploads/2017/08/stormchaser1.jpg?fit=1360%2C907&ssl=1">
+        <figcaption id="img-caption">Reed Timmer PHD reporting a tornado touching down to the National Weather Service and local authorities.</figcaption>
+        </div>
+        <div id="div"></div>
+        <p id='tribute-info'>Timmer is an American extreme meteorligist most notable for his chasing and documenting of tornadoes and other extreme weather across North America.
+          </p>
+          <a id="tribute-link" href="https://twitter.com/ReedTimmerAccu?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor" target="_blank">Reed Timmer Twitter</a>
+          <p id="tribute-info">This page will document his professional works in a time-line to show how his career developed.</p>
+<div class="divider"></div>
+<h3>Tornado Glory PBS Home Video</h3>
+<p>2004</p>
+                    <div class="divider"></div>
+          <h3 id="Storm-chasers">Storm Chasers</h3>
+          <p>2007-2011</p>
+          <div class="divider"></div>
+          <h3 id="Tornado-chasers">Tornado Chasers</h3>
+          <p>2012-2014</p>
+          <div class="divider"></div>
+          <h3 id="youtube">YouTube</h3>
+          <p>Reed Timmer has uploaded on YouTube for the last 15 years through all of his previous projects. Now his channel has turned into his main source of content. He is constantly going live and partnering with teams like Accuweather and Ryan Hall Y'all to provide widespread covered of severe weather events to thousands of viewers who tune in. </p>
+
+    </body>
+  </html>
+  </main>
+
+** end of undefined **
+
+** start of undefined **
+
+#tribute-link {
+  target: _blank;
+}
+
+#image {
+  max-width: 100%;
+  height: auto;
+  justify-content: center;
+}
+
+img {
+  max-width: 600px;
+  height: 400px;
+  justify-content: center;
+  display: block;
+}
+
+body {
+  background-color: #1f1936;
+}
+
+h1 {
+  color: #f5f5ed;
+  text-align: center;
+  font-family: serif;
+}
+
+h3 {
+  color: #f5f5ed;
+  text-align: left;
+  font-family: serif;
+  font-size: 24px;
+}
+
+p {
+  color: #fffffa;
+  font-size: 18px;
+  font-family: sans-serif;
+}
+
+figcaption {
+  color: #f5f5ed;
+  font-family: sans-serif;
+  font-style: italic;
+  font-size: 14px;
+}
+
+a {
+  font-family: serif;
+}
+
+a:link {
+  color: #36c3ff;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #a4e1d3;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+** end of undefined **
+
